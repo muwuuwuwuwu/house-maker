@@ -1,0 +1,6 @@
+{
+  "name": "Ghar Hisab - House Construction Budget Manager",
+  "description": "A simple, mobile-first construction budget manager for tracking house building expenses, labor wages, contractor payments, and Pakistani Rupee (PKR) finances in English and Urdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
